@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Yusuf Oyinlola Nasirudeen (YuzStack)
-- 👀 I’m interested in Web & Software developmennt
-- 🌱 I’m currently learning Full-stack Web development
-- 💞️ I’m looking to collaborate on Projects and more
-- 📫 How to reach me: +234 706 315 3269
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching football 😉😊
+I'm 𝗬𝘂𝘀𝘂𝗳 𝗢𝘆𝗶𝗻𝗹𝗼𝗹𝗮 (YuzStack), a Front-end Developer, and Aspiring Full-Stack. I build Responsive 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀, and Interactive 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
+
+I love connecting and growing with people, and I'm currently available for 𝗴𝗶𝗴𝘀, 𝗽𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽𝘀, and 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀. 🤝
+
+You can reach me on +234 706 315 3269
+
+Cheers 🥂 🙂 
 
 <!---
 YuzStack/YuzStack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
