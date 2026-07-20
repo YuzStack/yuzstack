@@ -1,4 +1,4 @@
-I'm 𝗬𝘂𝘀𝘂𝗳 𝗢𝘆𝗶𝗻𝗹𝗼𝗹𝗮 (YuzStack), a Front-end Developer, and Aspiring Full-Stack. I build Responsive 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀, and Interactive 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
+I'm 𝗬𝘂𝘀𝘂𝗳 𝗢𝘆𝗶𝗻𝗹𝗼𝗹𝗮 (YuzStack), a Full-Stack Web Developer. I build Fast & Responsive 𝗪𝗲𝗯𝘀𝗶𝘁𝗲𝘀, and Interactive 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
 
 I love connecting and growing with people, and I'm currently available for 𝗴𝗶𝗴𝘀, 𝗽𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽𝘀, and 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀. 🤝
 
