@@ -3,6 +3,6 @@
 const profile = {
   name: 'Yusuf Oyinlola',
   nickname: 'YuzStack',
-  profession: 'Frontend Developer/Engineer',
-  tools: ['React', 'JavaScript', 'Tailwind', 'Git/GitHub', 'HTML', 'CSS'],
+  profession: 'Full-Stack Developer/Engineer (Frontend-Focused)',
+  tools: ['Next.js','React','Tailwind', 'TypeScript', 'JavaScript', 'Supabase', 'Git/GitHub'],
 };
