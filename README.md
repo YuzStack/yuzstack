@@ -1,7 +1,17 @@
-I'm 𝗬𝘂𝘀𝘂𝗳 𝗢𝘆𝗶𝗻𝗹𝗼𝗹𝗮 (YuzStack), a Full-Stack Developer & Engineer passionate about designing, building, and managing useful, sustainable, maintainable, scalable, fast, and accessible web & mobile applications with React.js/Next.js, JavaScript/TypeScript, Tailwind, Node.js/Express.js, MongoDB, & Supabase.
+𝗛𝗶, 𝗜’𝗺 𝗬𝘂𝘀𝘂𝗳 𝗢𝘆𝗶𝗻𝗹𝗼𝗹𝗮 (YuzStack), 👋
 
-I love connecting and growing with people, and I'm currently available for 𝗴𝗶𝗴𝘀, 𝗽𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽𝘀, and 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀. 🤝
+I am a 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 **Engineer**, passionate about Designing, Building & Maintaining sustainable and high-performance software applications that solve practical real-world problems. 
 
-You can reach me on +234 706 315 3269
+𝗠𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗦𝘁𝗮𝗰𝗸:
+• 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, React.js, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS
+• 𝗦𝘁𝗮𝘁𝗲 & 𝗗𝗮𝘁𝗮 𝗖𝗮𝗰𝗵𝗶𝗻𝗴: TanStack Query, Redux, Context API
+• 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Supabase
+• 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄: Version Control (Git/GitHub), Modular, Reusable, and MVC Code Architecture. 
+
+𝗟𝗲𝘁’𝘀 𝗧𝗮𝗹𝗸! 
+If you have a project in mind or just want to connect and talk tech, my door is always open. 🤝
+
+📧 𝗘𝗺𝗮𝗶𝗹 𝗺𝗲: yuzstackinnovation@gmail.com 
+🔗 𝗟𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗿𝗶𝗴𝗵𝘁 𝗵𝗲𝗿𝗲 𝗼𝗻 **GitHub**!
 
 Cheers 🥂 🙂 
